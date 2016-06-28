@@ -1,2 +1,2 @@
 # MyMVPDemo
-MVP Demo
+Simple MVP Demo
